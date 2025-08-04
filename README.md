@@ -51,5 +51,14 @@ Fabricate the antenna using standard PCB manufacturing based on provided Gerber 
 
 Use a Vector Network Analyzer to measure the fabricated antenna’s S-parameters and validate performance.
 
-## Screenshots
+## Results
+Achieved wide bandwidth coverage (8–12 GHz) suitable for X-band communication.
+
+Successfully reduced mutual coupling between MIMO elements (e.g., S21 < -20 dB across the band).
+
+Attained high radiation efficiency and stable gain throughout the operating frequency range.
+
+Validated simulation results with physical measurements, confirming the accuracy of the design process.
+
+The developed antenna design can be adapted for various advanced wireless applications requiring robust X-band performance.
 
